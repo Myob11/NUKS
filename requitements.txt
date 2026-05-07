@@ -4,3 +4,5 @@ sqlalchemy
 aiosqlite
 pydantic
 fastapi-versioning
+gunicorn 
+flask
